@@ -3,8 +3,8 @@
 Create a new serverless project with this template:
 
 ```
-serverless create
-  --template-url https://github.com/eamontaaffe/serverless-aws-nodejs-reasonml
+serverless create \
+  --template-url https://github.com/eamontaaffe/serverless-aws-nodejs-reasonml \
   --path hello-reason
 ```
 
