@@ -15,6 +15,12 @@ installed:
 npm install -g bs-platform
 ```
 
+Install the dependencies:
+
+```
+npm install
+```
+
 Now build your project:
 
 ```
